@@ -53,3 +53,4 @@ I used claude to troubleshoot layout issues.
 
 - Frontend Mentor - [@joKC-tech](https://www.frontendmentor.io/profile/joKC-tech)
 # product-card
+# article-preview-component
